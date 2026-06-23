@@ -301,7 +301,7 @@ Team members log in at `http://localhost/tms_pro/auth/login.php` and are routed 
 ## 👨‍💻 Author
 
 **Ibrahim Abbas &**
-** Ghulam Ahmad**
+**Ghulam Ahmad**
 - 🎓 CS Student — Govt. College University, Faisalabad
 - 💻 GitHub: [@ibrahimabbas1721-dev](https://github.com/ibrahimabbas1721-dev)
 - 🔧 Stack: PHP · MySQL · JavaScript · Node.js · React.js · MongoDB
