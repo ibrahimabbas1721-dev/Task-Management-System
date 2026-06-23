@@ -241,32 +241,37 @@ Team members log in at `http://localhost/tms_pro/auth/login.php` and are routed 
 ### Admin — Command Center (Dashboard)
 > Real-time stats, monthly task trend, project velocity chart, and performance leaderboard.
 
-![Admin Dashboard](screenshots/admin/dashboard.png)
+![Admin Dashboard](screenshots/admin/dashboard.jpg)
 
 ### Admin — Projects
 > Project list with status filters, plan filter, progress filter, and stat tiles.
 
-![Projects](screenshots/admin/projects.png)
+![Projects](screenshots/admin/projects.jpg)
 
 ### Admin — All Tasks
 > Full task table with bulk actions (delete, complete, in-progress), search, and status filters.
 
-![All Tasks](screenshots/admin/all_tasks.png)
+![All Tasks](screenshots/admin/all_tasks.jpg)
 
 ### Admin — View Project (Kanban)
 > Grouped task board — quick add, inline edit, drag-style status update per task.
 
-![View Project](screenshots/admin/view_project.png)
+![View Project](screenshots/admin/view_project.jpg)
+
+### Admin — Manage Uers 
+> Admin can manage the users and monitor individual user progress.
+
+![View Project](screenshots/admin/users.jpg)
 
 ### Admin — Intelligence Report
 > Filterable task report by user, project, and date range with Chart.js status breakdown.
 
-![Reports](screenshots/admin/reports.png)
+![Reports](screenshots/admin/reports.jpg)
 
 ### User — Execution Hub
 > Personal dashboard showing assigned projects, task counts, success rate, and overdue tasks.
 
-![User Dashboard](screenshots/user/dashboard.png)
+![User Dashboard](screenshots/user/dashboard.jpg)
 
 > *(Add your actual screenshots to `screenshots/admin/` and `screenshots/user/` and update paths above)*
 
