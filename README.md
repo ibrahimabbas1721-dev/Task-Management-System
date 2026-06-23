@@ -236,7 +236,7 @@ Team members log in at `http://localhost/tms_pro/auth/login.php` and are routed 
 ### Landing Page
 > TaskFlow homepage with feature overview and Get Started CTA.
 
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/landing.jpg)
 
 ### Admin — Command Center (Dashboard)
 > Real-time stats, monthly task trend, project velocity chart, and performance leaderboard.
