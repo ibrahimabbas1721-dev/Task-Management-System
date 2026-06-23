@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/img/uploads/admin_logo_1.png" alt="TMS Pro Logo" width="80"/>
-
 # TMS Pro — Task Management System
 
 **A full-stack web application for managing projects, tasks, and teams with role-based dashboards, analytics, and performance tracking.**
@@ -303,6 +301,7 @@ Team members log in at `http://localhost/tms_pro/auth/login.php` and are routed 
 ## 👨‍💻 Author
 
 **Ibrahim Abbas**
+**Ghulam Ahmad**
 - 🎓 CS Student — Govt. College University, Faisalabad
 - 💻 GitHub: [@ibrahimabbas1721-dev](https://github.com/ibrahimabbas1721-dev)
 - 🔧 Stack: PHP · MySQL · JavaScript · Node.js · React.js · MongoDB
